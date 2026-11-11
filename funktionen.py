@@ -90,12 +90,10 @@
 #print(zaehle_worte(text,"python"))
 
 #10
-def quadrat(x):
-    return x*x
+# def quadrat(x):
+#    return x*x
 
-    
-
-quadrat(5)
+#quadrat(5)
 
 
     
